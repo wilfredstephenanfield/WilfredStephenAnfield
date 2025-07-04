@@ -39,7 +39,7 @@ I carry Southern roots and Mason jar values into every line of code, believing t
 - 💼 **LinkedIn:** [linkedin.com/in/WilfredStephenAnfield](https://linkedin.com/in/wilfredstephenanfield) 
 - 🦋 **Bluesky:** [@WilfredStephenAnfield.com](https://bsky.app/profile/WilfredStephenAnfield.com)
 - 🐘 **Mastodon:** [@WilfredStephenAnfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
-- 📘 **Facebook:** [facebook.com/WilfredStephenAnfield](https://facebook.com/WilfredStephenAnfield)
+- 📘 **Facebook:** [facebook.com/WilfredStephenAnfield](https://facebook.com/WilfredStephenAnfield) *(Professional Page)*
 
 *Drop me a line if you're dreaming of more just systems. I'll have the sweet tea ready.*
 
