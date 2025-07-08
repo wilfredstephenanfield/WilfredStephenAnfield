@@ -25,13 +25,14 @@ Systems that bridge gaps in care and empower communities through:
 - **Digital Health Strategy** - Person-centered tools and frameworks
 - **Accessibility Advocacy** - Making digital spaces open to everyone
 - **Community Design** - Rooted in lived experience, local voices, and generational wisdom
+- **[WilfredStephenAnfield.com](https://wilfredstephenanfield.com) - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
 
-## Porch Notes 🫙
+## Mason Jar Notes 🫙
 
-> *"On the porch, everyone's welcome. Y'all truly means all.  
-> We listen, we share, we build community—one story, one solution at a time."*
+> *On this porch, everyone's welcome. Y'all truly means all.  
+> We listen, we share, we build community—one story, one solution, one thought at a time.*
 
-I carry Southern roots and Mason jar values into every line of code, believing technology should serve and connect communities.
+I carry Southern roots and Mason jar values into every line of code, believing technology should serve and connect communities with care.
 
 ## Let's Connect 💬
 
