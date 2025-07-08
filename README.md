@@ -25,7 +25,7 @@ Systems that bridge gaps in care and empower communities through:
 - **Digital Health Strategy** - Person-centered tools and frameworks
 - **Accessibility Advocacy** - Making digital spaces open to everyone
 - **Community Design** - Rooted in lived experience, local voices, and generational wisdom
-- **[WilfredStephenAnfield.com](https://wilfredstephenanfield.com) - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
+- **[WilfredStephenAnfield.com](https://wilfredstephenanfield.com)** - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
 
 ## Mason Jar Notes 🫙
 
