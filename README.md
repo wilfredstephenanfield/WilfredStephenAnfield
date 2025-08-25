@@ -1,15 +1,17 @@
-## Hi, I'm [Wilfred Stephen Anfield](https://wilfredstephenanfield.com) 👋🏾
+## Hi, I'm [Wilfred Stephen Anfield](https://wilfredstephenanfield.com/) 👋🏾
 ### (most folks call me Stephen)
 
-🏥 **Digital Health & Community Design Strategist** • ♿ **Accessibility-First Developer** • 🏛️ **Washington, D.C.**
+🏥 **Digital Health and Community Design Strategist** • ♿ **Accessibility-First Developer** • 🏛️ **Washington, D.C.**
 
-> Pull up a seat on the digital porch and grab a Mason jar of ideas 🫙
+> Pull up a chair on the digital porch and grab a Mason jar of ideas 🫙
 
 ---
 
 ## What I Do
 
-I craft **person-centered digital strategy** that connects health systems, communities, and equitable design. Blending Southern roots with systems thinking, I design inclusive solutions that center care and justice.
+I co-design with communities to reimagine care and restore dignity where "y'all" means all, online and off.
+
+Rooted in Southern storytelling, digital strategy, and trust in community wisdom, I partner with folks creating futures where care is infrastructure and joy is part of the blueprint.
 
 Every project starts with accessibility and ends with community, ensuring solutions hold what matters most.
 
@@ -25,7 +27,7 @@ Systems that bridge gaps in care and empower communities through:
 - **Digital Health Strategy** - Person-centered tools and frameworks
 - **Accessibility Advocacy** - Making digital spaces open to everyone
 - **Community Design** - Rooted in lived experience, local voices, and generational wisdom
-- **[WilfredStephenAnfield.com](https://wilfredstephenanfield.com)** - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
+- **[WilfredStephenAnfield.com](https://wilfredstephenanfield.com/)** - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
 
 ## Mason Jar Notes 🫙
 
@@ -46,4 +48,4 @@ I carry Southern roots and Mason jar values into every line of code, believing t
 
 ---
 
-**Let's design with care. Let's build joy in community.** 🧡🌎🫙
+**Let's design with care. Let's design communities where joy is part of the blueprint.** 
