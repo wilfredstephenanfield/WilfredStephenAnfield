@@ -1,7 +1,7 @@
 ## Hi, I'm [Wilfred Stephen Anfield](https://wilfredstephenanfield.com/) 👋🏾
 ### (most folks call me Stephen)
 
-🏥 **Digital Health and Community Design Strategist** • ♿ **Accessibility-First Developer** • 🏛️ **Washington, D.C.**
+🏥 **Digital Health and Community Design Strategist** • ♿ **Accessibility-First Developer** • 🏛️ **Washington, DC**
 
 > Pull up a chair on the digital porch and grab a Mason jar of ideas 🫙
 
@@ -27,7 +27,7 @@ Systems that bridge gaps in care and empower communities through:
 - **Digital Health Strategy** - Person-centered tools and frameworks
 - **Accessibility Advocacy** - Making digital spaces open to everyone
 - **Community Design** - Rooted in lived experience, local voices, and generational wisdom
-- **[WilfredStephenAnfield.com](https://wilfredstephenanfield.com/)** - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
+- **[wilfredstephenanfield.com/](https://wilfredstephenanfield.com/)** - My digital porch where I try to practice what I preach about accessibility-first design. Built for all y'all. Feedback always welcome.
 
 ## Mason Jar Notes 🫙
 
@@ -38,11 +38,11 @@ I carry Southern roots and Mason jar values into every line of code, believing t
 
 ## Let's Connect 💬
 
-- 🌐 **Website:** [WilfredStephenAnfield.com](https://wilfredstephenanfield.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/WilfredStephenAnfield](https://linkedin.com/in/wilfredstephenanfield) 
-- 🦋 **Bluesky:** [@WilfredStephenAnfield.com](https://bsky.app/profile/WilfredStephenAnfield.com)
+- 🌐 **Website:** [wilfredstephenanfield.com](https://wilfredstephenanfield.com)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield) 
+- 🦋 **Bluesky:** [@WilfredStephenAnfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - 🐘 **Mastodon:** [@WilfredStephenAnfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
-- 📘 **Facebook:** [facebook.com/WilfredStephenAnfield](https://facebook.com/WilfredStephenAnfield) *(Professional Page)*
+- 📘 **Facebook:** [facebook.com/WilfredStephenAnfield](https://facebook.com/wilfredstephenanfield) *(Professional Page)*
 
 *Drop me a line if you're dreaming of more just systems. I'll have the sweet tea ready.*
 
