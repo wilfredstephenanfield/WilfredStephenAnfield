@@ -5,7 +5,7 @@
 ---
 
 ## About [@WilfredStephenAnfield](https://github.com/wilfredstephenanfield)
-🏥 **Digital Health and Community Design Strategist** • ♿ **Accessibility-First Developer** • 🏛️ **Washington, DC**
+🏥 **Digital Health and Community Design Strategist** • ♿ **Accessibility-First Developer** • 📍 **[Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.)**
 
 > Pull up a chair on the digital porch and grab a Mason jar of ideas 🫙
 
@@ -19,7 +19,7 @@ Rooted in Southern storytelling, digital strategy, and trust in community wisdom
 
 Every project starts with accessibility and ends with community, ensuring solutions hold what matters most.
 
-I also serve as a court-appointed legal guardian and conservator, a role that keeps me grounded in the realities of caregiving & care ethics, fiduciary responsibility, person-centered decision-making, and systemic accountability—reminding me that digital systems must serve folks with the same care I bring to court and community.
+I also serve as a court-appointed legal guardian and conservator, a role that keeps me grounded in the realities of caregiving and care ethics, fiduciary responsibility, person-centered decision-making, and systemic accountability—reminding me that digital systems must serve folks with the same care I bring to court and community.
 
 **Focus Areas:**
 
@@ -31,7 +31,7 @@ I also serve as a court-appointed legal guardian and conservator, a role that ke
   
 - 🌱 **Southern hospitality meets global thinking** - infusing digital strategy with local wisdom, cultural responsiveness, and worldwide impact.
   
-- 🏛️ **Guardianship & conservatorship-informed design** – translating lived experience from court-appointed care, fiduciary responsibility, and person-centered advocacy into systems that protect **_and_** empower.
+- 🏛️ **Guardianship and conservatorship-informed design** – translating lived experience from court-appointed care, fiduciary responsibility, and person-centered advocacy into systems that protect **_and_** empower.
   
 - 💻 **Data dignity, digital consent, and data sovereignty** - advancing privacy, autonomy, and transparency in how communities' health and social data are governed and used.
 
@@ -64,7 +64,7 @@ I carry **Southern roots** and **Mason jar values** into every line of code, bel
 - 📘 **Facebook:** [facebook.com/stephenanfield](https://facebook.com/stephenanfield)
 - 📨 **Email:** [hello AT wilfredstephenanfield DOT com](mailto:hello@wilfredstephenanfield.com)
 
-*Drop me a line if you're dreaming of more just systems. I'll have the sweet tea ready.*
+*Drop me a line if you're dreaming of more just systems. I'll have the sweet tea and boiled peanuts ready.*
 
 ---
 
