@@ -1,6 +1,10 @@
 ## Hi, I'm [Wilfred Stephen Anfield](https://wilfredstephenanfield.com/) 👋🏾
-### (most folks call me Stephen)
+### (most folks call me Stephen Anfield)
+#### _Formerly on GitHub under [@StephenAnfield](https://github.com/stephenanfield). Thanks for finding me over here at my new porch!_
 
+---
+
+## About [@WilfredStephenAnfield](https://github.com/wilfredstephenanfield)
 🏥 **Digital Health and Community Design Strategist** • ♿ **Accessibility-First Developer** • 🏛️ **Washington, DC**
 
 > Pull up a chair on the digital porch and grab a Mason jar of ideas 🫙
@@ -15,11 +19,21 @@ Rooted in Southern storytelling, digital strategy, and trust in community wisdom
 
 Every project starts with accessibility and ends with community, ensuring solutions hold what matters most.
 
+I also serve as a court-appointed legal guardian and conservator, a role that keeps me grounded in the realities of caregiving & care ethics, fiduciary responsibility, person-centered decision-making, and systemic accountability—reminding me that digital systems must serve folks with the same care I bring to court and community.
+
 **Focus Areas:**
-- 🏥 Digital health innovation and community engagement
-- ♿ Accessibility-first development and inclusive design
-- 🧡 Trauma-informed, equitable technology solutions
-- 🌱 Southern hospitality meets global thinking
+
+- 🏥 **Digital health innovation and community engagement** - co-designing tools and systems that make health access more human, equitable, and connected.
+  
+- ♿  **Accessibility-first development and inclusive design** - creating experiences that start with disability and elder justice, ensuring everyone can access and thrive in the digital world.
+  
+- 🧡 **Trauma-informed, equitable technology solutions** - bringing care ethics into tech, so every interaction supports dignity, healing, and trust.
+  
+- 🌱 **Southern hospitality meets global thinking** - infusing digital strategy with local wisdom, cultural responsiveness, and worldwide impact.
+  
+- 🏛️ **Guardianship & conservatorship-informed design** – translating lived experience from court-appointed care, fiduciary responsibility, and person-centered advocacy into systems that protect **_and_** empower.
+  
+- 💻 **Data dignity, digital consent, and data sovereignty** - advancing privacy, autonomy, and transparency in how communities' health and social data are governed and used.
 
 ## What I'm Designing
 
@@ -34,7 +48,12 @@ Systems that bridge gaps in care and empower communities through:
 > *On this porch, everyone's welcome. Y'all truly means all.  
 > We listen, we share, we build community—one story, one solution, one thought at a time.*
 
-I carry Southern roots and Mason jar values into every line of code, believing technology should serve and connect communities with care.
+I carry **Southern roots** and **Mason jar values** into every line of code, believing technology should serve and connect communities with care.
+
+> **Mason jar values in a complex world: clear, grounded, holding care.**
+> Trying to preserve what matters most, even in hard seasons.
+>
+> _Grits-fed, purpose-led, let's break bread._
 
 ## Let's Connect 💬
 
@@ -42,10 +61,12 @@ I carry Southern roots and Mason jar values into every line of code, believing t
 - 💼 **LinkedIn:** [www.linkedin.com/in/wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield) 
 - 🦋 **Bluesky:** [@WilfredStephenAnfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - 🐘 **Mastodon:** [@WilfredStephenAnfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
-- 📘 **Facebook:** [facebook.com/WilfredStephenAnfield](https://facebook.com/wilfredstephenanfield) *(Professional Page)*
+- 📘 **Facebook:** [facebook.com/stephenanfield](https://facebook.com/stephenanfield)
+- 📨 **Email:** [hello AT wilfredstephenanfield DOT com](mailto:hello@wilfredstephenanfield.com)
 
 *Drop me a line if you're dreaming of more just systems. I'll have the sweet tea ready.*
 
 ---
 
-**Let's design with care. Let's design communities where joy is part of the blueprint.** 
+**Let's design with care. Let's design with communities where joy is part of the blueprint and where 'y'all' means all.** 🧡🙂
+
