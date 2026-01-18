@@ -57,11 +57,11 @@ I carry **Southern roots** and **Mason jar values** into every line of code, bel
 
 ## Let's Connect 💬
 
-- 🌐 **Website:** [wilfredstephenanfield.com](https://wilfredstephenanfield.com)  
+- 🌐 **Website:** [wilfredstephenanfield.com](https://wilfredstephenanfield.com/)  
 - 💼 **LinkedIn:** [www.linkedin.com/in/wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield) 
 - 🦋 **Bluesky:** [@WilfredStephenAnfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - 🐘 **Mastodon:** [@WilfredStephenAnfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
-- 📘 **Facebook:** [facebook.com/stephenanfield](https://facebook.com/stephenanfield)
+- 📘 **Facebook:** [facebook.com/wstephenanfield](https://facebook.com/wstephenanfield)
 - 📨 **Email:** [hello AT wilfredstephenanfield DOT com](mailto:hello@wilfredstephenanfield.com)
 
 *Drop me a line if you're dreaming of more just systems. I'll have the sweet tea and boiled peanuts ready.*
