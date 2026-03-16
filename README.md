@@ -6,4 +6,4 @@ I bring nearly 20 years of digital strategy experience together with graduate tr
 
 **Focus areas:** digital health equity · accessibility and disability justice · trauma-informed systems design · aging and caregiving justice · data dignity and community data sovereignty
 
-More about my work: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
+More about my work: [wilfredstephenanfield.com/](https://wilfredstephenanfield.com/)
