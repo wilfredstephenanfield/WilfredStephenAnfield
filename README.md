@@ -1,9 +1,18 @@
-## Hi, I'm Wilfred Stephen Anfield 👋🏾
+## Hey, y'all. I'm Wilfred Stephen Anfield, MPH, MSW.
 
-Digital Health and Community Design Strategist based in Washington, D.C. I work at the intersection of public and population health, social work, digital equity, and justice.
+Strategist · writer · caregiver · joy — based in Washington, D.C.
 
-I bring nearly 20 years of digital strategy experience together with graduate training in public health (MPH) and social work (MSW) from the University of Michigan. I also serve as a court-appointed guardian and conservator, experience that shapes how I approach trust, accountability, and dignity in care systems.
+I think about health equity, determinants of health (social, digital, and commercial), digital inclusion, and participatory design. I use GitHub to build and maintain [my personal site](https://wilfredstephenanfield.com/).
 
-**Focus areas:** digital health equity · accessibility and disability justice · trauma-informed systems design · aging and caregiving justice · data dignity and community data sovereignty
+### What I'm working on
 
-More about my work: [wilfredstephenanfield.com/](https://wilfredstephenanfield.com/)
+- Writing about health equity, caregiving, and community design at [wilfredstephenanfield.com/notes/](https://wilfredstephenanfield.com/notes/)
+- Creating (trying to, at least 🙃) an accessible, IndieWeb-native personal site with Eleventy, microformats2, and webmentions
+- Thinking about care infrastructure, joy, and what it means to design for people
+
+### Find me
+
+- Website: [wilfredstephenanfield.com](https://wilfredstephenanfield.com/)
+- Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
+- LinkedIn: [wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield)
+- ORCID: [0009-0002-1140-3107](https://orcid.org/0009-0002-1140-3107)
