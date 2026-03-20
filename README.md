@@ -2,7 +2,7 @@
 
 Strategist · writer · caregiver · joy — based in Washington, D.C.
 
-I think about health equity, determinants of health (social, digital, and commercial), digital inclusion, and participatory design. I use GitHub to build and maintain [my personal site](https://wilfredstephenanfield.com/).
+I think about health equity, determinants of health (social, digital, and commercial), digital inclusion, and participatory design. I use GitHub to build and maintain [my personal site](https://wilfredstephenanfield.com/). 
 
 ### What I'm working on
 
@@ -13,6 +13,10 @@ I think about health equity, determinants of health (social, digital, and commer
 ### Find me
 
 - Website: [wilfredstephenanfield.com](https://wilfredstephenanfield.com/)
+- Bluesky: [wilfredstephenanfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
+- Personal Fediverse Server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
 - LinkedIn: [wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield)
+- Threads: [@wilfredstephenanfield](https://www.threads.com/@wilfredstephenanfield)
 - ORCID: [0009-0002-1140-3107](https://orcid.org/0009-0002-1140-3107)
+- Gravatar [wilfredstephenanfield](https://gravatar.com/wilfredstephenanfield)
