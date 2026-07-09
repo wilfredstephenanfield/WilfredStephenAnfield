@@ -24,6 +24,7 @@ Sweet tea's poured at [wilfredstephenanfield.com](https://wilfredstephenanfield.
 - My Southern origin story: [About Wilfred Stephen Anfield](https://wilfredstephenanfield.com/about/)
 - Personal Fediverse server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
+- Bluesky: [wilfredstephenanfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - LinkedIn: [/in/wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield)
 - Threads: [@wilfredstephenanfield](https://www.threads.com/@wilfredstephenanfield)
 - Facebook: [wilfredstephenanfield](https://www.facebook.com/wilfredstephenanfield)
