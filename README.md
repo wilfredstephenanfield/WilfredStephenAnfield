@@ -10,22 +10,24 @@ I think about health equity, the determinants of health (social, digital, and co
 
 ## What I'm working on
 
-- Writing at [wilfredstephenanfield.com/notes](https://wilfredstephenanfield.com/notes/) on aging and caregiving, algorithmic and data justice in health, community as expertise, and joy as a daily practice.
+- Writing [Mason Jar Notes 🫙](https://wilfredstephenanfield.com/notes/) on aging and caregiving, algorithmic and data justice in health, community as expertise, and joy as a daily practice.
 - Creating (trying to, at least 😬) an accessible, IndieWeb-native personal site with Eleventy, microformats2, and webmentions.
 - Thinking about care infrastructure, joy, and what it means to design for people.
 
 ### Find me
 
-- Read more about me and my Southern origin story: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
+- Read more about me and my Southern origin story: [About Wilfred Stephen Anfield](https://wilfredstephenanfield.com/about/)
 - Bluesky: [wilfredstephenanfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - Personal Fediverse Server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
-- LinkedIn: [wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield)
+- LinkedIn: [/in/wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield)
 - Facebook: [wilfredstephenanfield](https://www.facebook.com/wilfredstephenanfield) 
 - Threads: [@wilfredstephenanfield](https://www.threads.com/@wilfredstephenanfield)
 - ORCID: [0009-0002-1140-3107](https://orcid.org/0009-0002-1140-3107)
 - Gravatar: [wilfredstephenanfield](https://gravatar.com/wilfredstephenanfield)
 - about.me: [wilfredstephenanfield](https://about.me/wilfredstephenanfield)
 - YouTube: [@wilfredstephenanfield](https://www.youtube.com/@wilfredstephenanfield)
+- X (formerly Twitter): [WStephenAnfield]([https://](https://x.com/WStephenAnfield)
+- Instagram: [wilfredstephenanfield](https://www.instagram.com/wilfredstephenanfield/)
 
 
