@@ -27,7 +27,7 @@ I think about health equity, the determinants of health (social, digital, and co
 - Gravatar: [wilfredstephenanfield](https://gravatar.com/wilfredstephenanfield)
 - about.me: [wilfredstephenanfield](https://about.me/wilfredstephenanfield)
 - YouTube: [@wilfredstephenanfield](https://www.youtube.com/@wilfredstephenanfield)
-- X (formerly Twitter): [WStephenAnfield]([https://](https://x.com/WStephenAnfield)
+- X (formerly Twitter): [WStephenAnfield](https://x.com/WStephenAnfield)
 - Instagram: [wilfredstephenanfield](https://www.instagram.com/wilfredstephenanfield/)
 
 
